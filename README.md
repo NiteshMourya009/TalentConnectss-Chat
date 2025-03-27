@@ -2,15 +2,23 @@
 A full-stack real-time chat application built using React.js (frontend) and Node.js with Express (backend). Users can send and receive messages instantly with real-time updates.
 
 🛠️ **Features**
+
 Real-time messaging
+
 User authentication (SIgnup/login/logout)
+
 Online/offline status display
+
 Responsive UI
+
 REST API for message handling
 
 **📂 Project Structure**
-TalentConnect-Chat/
+
+TalentConnect-Chat
+
 ├── backend/       # Node.js + Express API + Socket.io
+
 └── frontend/      # React.js (React) UI 
 
 🚀 **Prerequisites**
