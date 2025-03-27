@@ -45,5 +45,7 @@ Ensure you have the following installed:
    variables.
    📌 **Backend .env**
    MONGODB_URI = mongodb+srv://niteshmourya009:IFlCXHhQ6BugNEL0@cluster0.2tbisgc.mongodb.net/TalentConnect-ChatApp
+   
    PORT = 4002
+   
    JWT_TOKEN = w6pTUwi6ksHUPqMvOiPU1hto9e2PtVhGLJfsphz1fEw=
