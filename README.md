@@ -42,6 +42,7 @@ Ensure you have the following installed:
    6) run command -> npm install axios js-cookie react-hook-form react-hot-toast react- icons react-router-dom socket.io-client zustand daisyui
 4. **Environment Setup**
    Create .env files in the backend directories with the required variables.
+   
    📌 **Backend .env**
    MONGODB_URI = mongodb+srv://niteshmourya009:IFlCXHhQ6BugNEL0@cluster0.2tbisgc.mongodb.net/TalentConnect-ChatApp
    
